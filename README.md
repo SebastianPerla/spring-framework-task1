@@ -116,7 +116,10 @@ src/main/resources/static/images/vistula.png
 
 ## Screenshots
 
-Add screenshots here before submitting:
+### Basic response
 
-- `http://localhost:8080/`
-- `http://localhost:8080/greeting?name=Vistula`
+![Home endpoint](screenshots/home.png)
+
+### Greeting view
+
+![Greeting page](screenshots/greeting.png)
